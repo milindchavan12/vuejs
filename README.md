@@ -1,6 +1,6 @@
 # Vue JS
 
-VueJs is progreesive Javascript Framework with following benefits:
+VueJs is progressive Javascript Framework with following benefits:
 
 - Simplicity
 - Speed
