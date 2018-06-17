@@ -16,3 +16,8 @@ Virtual DOM :
 
 ## Axios :
 Recommended library for making Http requests
+
+## Binding Types :
+- Semantic Binding : with mustasches {{ propertyName }}
+- Declarative Binding : with v- Declaratives
+- One Time Binding 
