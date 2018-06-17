@@ -14,5 +14,5 @@ Virtual DOM :
 - Vue.js unpkg Url
   > https://unpkg.com/vue
 
-## Axion :
+## Axios :
 Recommended library for making Http requests
