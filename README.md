@@ -11,5 +11,5 @@ Virtual DOM :
 - Batches updates.
 
 ## Installing Vue
-- Veu.js unpkg Url
-  https://unpkg.com/vue
+- Vue.js unpkg Url
+  > https://unpkg.com/vue
